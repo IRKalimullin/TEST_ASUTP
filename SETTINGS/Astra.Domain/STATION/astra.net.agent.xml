@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Astra.Net.Agent Name="AstraRegul" NetEnterPort="1010" ParentAgentPort="1020">
+  <ChildAgents />
+  <Options LoggerLever="2" />
+</Astra.Net.Agent>
